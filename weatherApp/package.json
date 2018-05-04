@@ -1,0 +1,27 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "For practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetafese/node.js_practise.git"
+  },
+  "keywords": [
+    "Weather",
+    "app",
+    "Node.js"
+  ],
+  "author": "Joseph Tafese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetafese/node.js_practise/issues"
+  },
+  "homepage": "https://github.com/jetafese/node.js_practise#readme",
+  "dependencies": {
+    "npm": "^6.0.0"
+  }
+}
